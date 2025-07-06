@@ -2,4 +2,4 @@
 ### Code will be completely available soon!
 
 # Acknowledgement
-### This codebase is built based on the [OpenOCR](https://github.com/Topdu/OpenOCR). Thanks for the awesome work!
+### This code is built based on the [OpenOCR](https://github.com/Topdu/OpenOCR). Thanks for the awesome work!
